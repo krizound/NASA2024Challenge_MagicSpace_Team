@@ -1,4 +1,5 @@
 # Exoplanet Vitality Explorer
+Analyzing Exoplanets for Life and Valuable Resources
 ![alt text](https://github.com/krizound/NASA2024Challenge_MagicSpace_Team/blob/main/video_work.gif)
 
 A program for interaction of the application core with a model whose algorithm is to determine life on the planet and mineral. Contains both the kernel and the graphics component. 
